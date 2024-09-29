@@ -31,7 +31,7 @@
 
 - **Project objective:** 
 
-    **1.** Develop a _[customer performance analysis report.]( 
+    **1.** Develop a _[customer performance analysis report.](https://github.com/ahdshaheer/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
     **2.** Perform a detailed comparison between market performance and established sales goals.
 
