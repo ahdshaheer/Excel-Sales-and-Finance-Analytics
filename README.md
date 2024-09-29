@@ -33,7 +33,7 @@
 
     **1.** Develop a _[customer performance analysis report.](https://github.com/ahdshaheer/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Perform a detailed comparison between market performance and established sales goals.
+    **2.** Perform a detailed comparison between _[market performance and sales targets.](https://github.com/ahdshaheer/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** Enable businesses to assess and monitor their sales activities and outcomes.
 
@@ -46,9 +46,9 @@
 
 - **Project objective:** 
 
-    **1.** Generate Profit and Loss (P&L) statements by fiscal year and month. 
+    **1.** Generate Profit and Loss _[(P&L) statements by fiscal year](https://github.com/ahdshaheer/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Report%20by%20Fiscal%20Year.pdf)_ and _[month.](https://github.com/ahdshaheer/Excel-Sales-and-Finance-Analytics/blob/main/Profit%20and%20Loss%20Report%20by%20Fiscal%20Year%20and%20Month.pdf)_ 
 
-   **2.** Prepare Profit and Loss (P&L) reports segmented by market.
+   **2.** Prepare Profit and Loss _[(P&L) reports segmented by market.](https://github.com/ahdshaheer/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of Financial Analytics:** Assess financial performance, aid in decision-making, and enhance communication with stakeholders.
 
