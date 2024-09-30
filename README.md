@@ -1,4 +1,4 @@
-# Sales and Finance Analytics Using Excel
+# Sales and Finance Analytics
 ## About the Company :
 
 - AtliQ Hardware is a global supplier specializing in electronic hardware products such as keyboards, mice, printers, and more.
