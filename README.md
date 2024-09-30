@@ -10,7 +10,7 @@
 
  The goal is to generate both a Sales Performance report and a Financial report for the company. These reports will provide insights to help enhance net sales and support key business strategies.
 
-#### Steps Taken :
+#### Key Achievements :
 **1.** Gained a clear understanding of the business requirements from AtliQ Hardware and explored the key business concepts involved.
 
 **2.** Extracted data into Power Query and performed data cleaning, which included renaming columns, removing extra spaces, handling missing values, assessing column quality, and resolving duplicates.
